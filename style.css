@@ -1,0 +1,69 @@
+body{
+  background-color: rgb(240, 240, 240);
+  color: rgb(20, 20, 20);
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  color: #4E598C;
+  font-size: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2{
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: red;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #B8B8AA;
+}
+
+img{
+  height: 100px;
+}
+
+#banner{
+  text-align: center;
+  background-image: url('images/ice-cream.jpg');
+  background-size: cover;
+  height: 400px;
+  padding-top: 200px;
+  text-shadow: 1px 1px 1px black;
+  color: white;
+}
+
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.feature{
+  padding: 50px;
+}
+
+#footer i {
+  color: lightgrey;
+  font-size: 60px;
+}
+#footer i:hover {
+  color: white;
+}
+
+
